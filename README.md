@@ -12,10 +12,9 @@ Among them, neu_A and neu_mix include the training set "train" and the validatio
 **SSD-Scratch**：The scratch dataset selected from the NEU-seg dataset includes all the scratch images and their labels.
 
 
-**When using this dataset, please pay attention to the following points:
+**When using this dataset, please pay attention to the following points:**
+  **1.Please ensure that relevant laws, regulations and ethical guidelines are observed when using data sets for research and development.**
   
-  1.Please ensure that relevant laws, regulations and ethical guidelines are observed when using data sets for research and development.
+  **2.The use of data sets is limited to academic research or non-commercial purposes.**
   
-  2.The use of data sets is limited to academic research or non-commercial purposes.
-  
-  3.Please respect the copyright of the dataset and do not use the dataset for commercial purposes without permission.**
+  **3.Please respect the copyright of the dataset and do not use the dataset for commercial purposes without permission.**
